@@ -39,5 +39,6 @@ namespace PersonalBrand.API
 
             app.Run();
         }
+
     }
 }
